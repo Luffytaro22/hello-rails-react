@@ -106,6 +106,10 @@ After installing the gems, run this command to create and migrate a database:
 ```
 rails db:create db:migrate db:seed
 ```
+Create the application bundler with the following command:
+```
+npm run build
+```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
