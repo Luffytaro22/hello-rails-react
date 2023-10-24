@@ -90,6 +90,10 @@ To open a local server, type the following command:
 ```
 rails server
 ```
+Or try this to run a server and execute the webpack bundler:
+```
+./bin/dev
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
